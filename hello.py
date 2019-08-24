@@ -1,3 +1,8 @@
+#Author: Konstantin Sheverdyayev
+#Description: a shout out to the world sensitive to tiem of the day
+#Created: Sep 2019
+
+
 import time
 
 RawTime = time.localtime()#get raw time
